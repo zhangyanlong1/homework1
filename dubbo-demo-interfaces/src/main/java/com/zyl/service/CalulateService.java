@@ -1,4 +1,4 @@
-package com.zyp.service;
+package com.zyl.service;
 
 public interface CalulateService {
 	/** * 实现加法 * @param a * @param b * @return */ 

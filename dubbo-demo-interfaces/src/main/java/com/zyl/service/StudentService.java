@@ -1,6 +1,6 @@
-package com.zyp.service;
+package com.zyl.service;
 
-import com.zyp.bean.Student;
+import com.zyl.bean.Student;
 
 public interface StudentService {
 	

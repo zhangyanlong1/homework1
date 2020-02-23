@@ -1,7 +1,7 @@
-package com.zyp.service.imp;
+package com.zyl.service.imp;
 
-import com.zyp.bean.Student;
-import com.zyp.service.StudentService;
+import com.zyl.bean.Student;
+import com.zyl.service.StudentService;
 
 public class StudentServiceImp implements StudentService{
 

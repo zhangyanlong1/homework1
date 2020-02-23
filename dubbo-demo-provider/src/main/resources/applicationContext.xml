@@ -17,7 +17,7 @@
 <bean id="myStudentService" class="com.zyp.service.imp.CalulateServiceImp" />
  
 <!-- 声明需要暴露的服务接口 -->
-<dubbo:service interface="com.zyp.service.CalulateService" ref="myStudentService" />
+<dubbo:service interface="com.zyl.service.CalulateService" ref="myStudentService" />
  
 
 </beans>

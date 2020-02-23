@@ -1,4 +1,4 @@
-package com.zyp.bean;
+package com.zyl.bean;
 
 import java.io.Serializable;
 
